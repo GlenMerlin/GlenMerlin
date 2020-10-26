@@ -42,22 +42,9 @@
 <br />
 
 ---
+### GitHub Stats
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="GlenMerlin's GitHub Stats" src="https://github-readme-stats.glenmerlin.vercel.app/api?username=GlenMerlin&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="GlenMerlin's GitHub Stats" src="https://github-readme-stats.glenmerlin.vercel.app/api?username=GlenMerlin&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/GlenMerlin
 [instagram]: https://instagram.com/glen.m.photos
