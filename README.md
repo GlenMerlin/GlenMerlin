@@ -1,6 +1,6 @@
 ### Hi there, I'm Glen 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](<!-- link needed -->)
+![Twitter Follow](https://img.shields.io/twitter/follow/GlenTheLucario?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Student, Tech Nerd, and code in my spare time!!
 
