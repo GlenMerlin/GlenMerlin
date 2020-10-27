@@ -47,7 +47,7 @@
 
 <img align="left" alt="GlenMerlin's GitHub Stats" src="https://github-readme-stats.glenmerlin.vercel.app/api?username=GlenMerlin&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/GlenMerlin
+[twitter]: https://twitter.com/GlenTheLucario
 [instagram]: https://instagram.com/glen.m.photos
 [discord]: https://discord.gg/BG9dU9Z
 [mastodon]: https://mastodon.social/web/accounts/1292192
