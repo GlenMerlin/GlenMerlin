@@ -26,7 +26,6 @@
 [<img align="left" alt="GlenMerlin | Reddit" src="./Images/reddit.png" />][reddit]
 <br />
 
----
 
 ### Languages and Tools:
 
