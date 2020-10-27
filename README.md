@@ -21,9 +21,9 @@
 [<img align="left" alt="GlenMerlin | Instagram" src="./Images/instagram.png" />][instagram]
 [<img align="left" alt="GlenMerlin | Discord" src="./Images/discord.png" />][discord]
 [<img align="left" alt="GlenMerlin | Mastodon" src="./Images/mastodon.png" />][mastodon]
-[<img align="left" alt="GlenMerlin | Steam" src="./Images/steam.png/>][steam]
+[<img align="left" alt="GlenMerlin | Steam" src="./Images/steam.png" />][steam]
 [<img align="left" alt="GlenMerlin | Keybase" src="./Images/keybase.png" />][keybase]
-[<img align="left" alt="GlenMerlin | Reddit" src="./Images/reddit.spng />][reddit]
+[<img align="left" alt="GlenMerlin | Reddit" src="./Images/reddit.png" />][reddit]
 <br />
 
 ### Languages and Tools:
