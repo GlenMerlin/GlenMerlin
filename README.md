@@ -25,6 +25,7 @@
 [<img align="left" alt="GlenMerlin | Keybase" src="./Images/keybase.png" />][keybase]
 [<img align="left" alt="GlenMerlin | Reddit" src="./Images/reddit.png" />][reddit]
 <br />
+<br />
 
 
 ### Languages and Tools:
