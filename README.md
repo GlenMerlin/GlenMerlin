@@ -24,7 +24,9 @@
 [<img align="left" alt="GlenMerlin | Steam" src="./Images/steam.png" />][steam]
 [<img align="left" alt="GlenMerlin | Keybase" src="./Images/keybase.png" />][keybase]
 [<img align="left" alt="GlenMerlin | Reddit" src="./Images/reddit.png" />][reddit]
+
 <br />
+
 
 ### Languages and Tools:
 
