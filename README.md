@@ -4,8 +4,9 @@
 
 ## I'm a Student, Tech Nerd, and code in my spare time!!
 
-- Straight Male
+- Bi-Lithro He/Him They/Them
 - Furry
+- Ammature photographer
 - 17yrs old
 - Obsessed with Lucario and Dragons
 - Discord Bug Hunter
