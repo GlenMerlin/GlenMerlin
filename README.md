@@ -1,6 +1,6 @@
 ### Hi there, I'm Glen 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/GlenTheLucario?color=1DA1F2&logo=Twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/RealGlenMerlin?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Student, Tech Nerd, and code in my spare time!!
 
@@ -50,7 +50,7 @@
 
 <img align="left" alt="GlenMerlin's GitHub Stats" src="https://github-readme-stats.glenmerlin.vercel.app/api?username=GlenMerlin&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/GlenTheLucario
+[twitter]: https://twitter.com/RealGlenMerlin
 [instagram]: https://instagram.com/glen.m.photos
 [discord]: https://discord.gg/BG9dU9Z
 [mastodon]: https://mastodon.social/web/accounts/1292192
