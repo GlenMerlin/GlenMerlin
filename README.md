@@ -4,12 +4,13 @@
 
 ## I'm a Student, Tech Nerd, and code in my spare time!!
 
-- Bisexual He/Him They/Them
-- Ammature photographer
-- 17 years old
-- Obsessed with Lucario and Dragons
+- He/Him They/Them
+- Bisexual
+- Ammature Photographer 📷
+- 18 Years Old
+- Obsessed with Dragons 🐉
 - Discord Bug Hunter
-- Developer of Telecord
+- Developer of Telecord 
 
 ### Spotify Playing 🎧
 
