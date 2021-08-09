@@ -40,17 +40,16 @@
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python 3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Visual Basic" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <br />
 
-<br />
+<br/>
 
 ### GitHub Stats
 
-<img align="left" alt="GlenMerlin's GitHub Stats" src="https://github-readme-stats.glenmerlin.vercel.app/api?username=GlenMerlin&show_icons=true&hide_border=true" />
+<img align="left" alt="GlenMerlin's GitHub Stats" src="https://github-readme-stats.glenmerlin.vercel.app/api?username=GlenMerlin&show_icons=true&hide_border=true&title_color=f9f9f9&icon_color=f9f9f9&text_color=f9f9f9&bg_color=121523" />
 
 [twitter]: https://twitter.com/RealGlenMerlin
 [instagram]: https://instagram.com/glen.m.photos
