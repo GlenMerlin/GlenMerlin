@@ -46,10 +46,6 @@
 
 <br/>
 
-### GitHub Stats
-
-<img align="left" alt="GlenMerlin's GitHub Stats" src="https://github-readme-stats.glenmerlin.vercel.app/api?username=GlenMerlin&show_icons=true&hide_border=true&title_color=f9f9f9&icon_color=f9f9f9&text_color=f9f9f9&bg_color=121523" />
-
 [twitter]: https://twitter.com/RealGlenMerlin
 [instagram]: https://instagram.com/glen.m.photos
 [discord]: https://discord.gg/BG9dU9Z
