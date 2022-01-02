@@ -4,8 +4,7 @@
 
 ## I'm a Student, Tech Nerd, and code in my spare time!!
 
-- He/Him They/Them
-- Bisexual
+- He/Him
 - Ammature Photographer 📷
 - 18 Years Old
 - Obsessed with Dragons 🐉
@@ -22,7 +21,6 @@
 [<img align="left" alt="GlenMerlin | Instagram" src="./Images/instagram.png" />][instagram]
 [<img align="left" alt="GlenMerlin | Keybase" src="./Images/keybase.png" />][keybase]
 [<img align="left" alt="GlenMerlin | Mastodon" src="./Images/mastodon.png" />][mastodon]
-[<img align="left" alt="GlenMerlin | Reddit" src="./Images/reddit.png" />][reddit]
 [<img align="left" alt="GlenMerlin | Steam" src="./Images/steam.png" />][steam]
 [<img align="left" alt="GlenMerlin | Twitter" src="./Images/twitter.png" />][twitter]
 <br />
@@ -52,4 +50,3 @@
 [mastodon]: https://mastodon.social/web/accounts/1292192
 [steam]: https://steamcommunity.com/id/GlenMerlin/
 [keybase]: https://keybase.io/GlenMerlin
-[reddit]: https://reddit.com/u/GlenMerlin
