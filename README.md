@@ -5,6 +5,7 @@
 ## I'm a Student, Tech Nerd, and code in my spare time!!
 
 - He/Him
+- Bisexual
 - Ammature Photographer 📷
 - 18 Years Old
 - Obsessed with Dragons 🐉
