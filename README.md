@@ -4,11 +4,11 @@
 
 ## I'm a Student, Computer Nerd, and Writer of Spaghetti Code!
 
-- He/Him They/Them
+- They/Them
 - Bisexual
 - Ammature Photographer 📷
 - 19 Year Old College Student 💻
-- First year at BYU as a Cybersecurity Major 🔒
+- Second year at BYU as a Cybersecurity Major 🔒
 - Obsessed with Dragons 🐉
 - Discord Bug Hunter 🐛
 - Developer of Telecord 💾
