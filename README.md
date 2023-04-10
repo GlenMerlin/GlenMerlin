@@ -7,7 +7,7 @@
 - They/Them
 - Bisexual
 - Ammature Photographer 📷
-- 19 Year Old College Student 💻
+- 20 Year Old College Student 💻
 - Second year at BYU as a Cybersecurity Major 🔒
 - Obsessed with Dragons 🐉
 - Discord Bug Hunter 🐛
