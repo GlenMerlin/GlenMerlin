@@ -1,14 +1,12 @@
 # Hi there, I'm Glen 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/RealGlenMerlin?color=1DA1F2&logo=Twitter&style=for-the-badge)
-
 ## I'm a Student, Computer Nerd, and Writer of Spaghetti Code!
 
 - They/Them
 - Bisexual
 - Ammature Photographer 📷
 - 20 Year Old College Student 💻
-- Second year at BYU as a Cybersecurity Major 🔒
+- Last year at BYU as a Cybersecurity Major 🔒
 - Obsessed with Dragons 🐉
 - Discord Bug Hunter 🐛
 - Developer of Telecord 💾
@@ -22,7 +20,7 @@
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/BG9dU9Z)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/glen.m.photos)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/RealGlenMerlin)
-[![mastodon](https://skillicons.dev/icons?i=mastodon)](https://wuff.space/@GlenMerlin)
+[![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@GlenMerlin)
 [<img alt="GlenMerlin | Steam" src="./Images/steam.png" />][steam]
 [<img alt="GlenMerlin | Keybase" src="./Images/keybase.png" />][keybase]
 [<img alt="GlenMerlin | Tumblr" src="./Images/tumblr.png" />][tumblr]
