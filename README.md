@@ -4,9 +4,8 @@
 
 - They/Them
 - Bisexual
-- Ammature Photographer 📷
-- 20 Year Old College Student 💻
-- Last year at BYU as a Cybersecurity Major 🔒
+- Amateur Photographer 📷
+- 21 Year Old Cyber Security Analyst 💻
 - Obsessed with Dragons 🐉
 - Discord Bug Hunter 🐛
 - Developer of Telecord 💾
@@ -18,7 +17,7 @@
 **Connect with me**:
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/BG9dU9Z)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/glen.m.photos)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/realglenmerlin)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/RealGlenMerlin)
 [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@GlenMerlin)
 [<img alt="GlenMerlin | Steam" src="./Images/steam.png" />][steam]
